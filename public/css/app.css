@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h3, form>label,
+input {
+    margin: 1rem;
+}
+
+form>label, input {
+    display: flex;
+}
